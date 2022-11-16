@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="com.github.aimproxy.dotfonts.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient862"
+       x1="7.9373002"
+       x2="7.9373002"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(1.0000197,0,0,1.0000197,-2.6388817e-4,0.00804349)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#202020"
+         offset="0"
+         id="stop878" />
+      <stop
+         stop-color="#4d4d4d"
+         offset="1"
+         id="stop880" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="27.781891"
+     inkscape:cy="44.219135"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(1.0000192,0,0,1.0000192,4.1098667e-6,-5.1781419e-5)"
+       shape-rendering="auto"
+       id="g54">
+      <path
+         d="m 4.3693,0.52916 c -2.1142,0 -3.8402,1.7835 -3.8402,3.9682 v 8.4675 c 0,2.1846 1.726,3.9682 3.8402,3.9682 h 8.1944 c 2.1142,0 3.8402,-1.7835 3.8402,-3.9682 v -8.4675 c 0,-2.1846 -1.726,-3.9682 -3.8402,-3.9682 z m 0.25704,0.52089 h 7.6808 c 1.8443,0 3.3291,1.5342 3.3291,3.44 v 7.9368 c 0,1.9058 -1.4847,3.44 -3.3291,3.44 h -7.6808 c -1.8443,0 -3.3291,-1.5342 -3.3291,-3.44 v -7.9368 c 0,-1.9058 1.4847,-3.44 3.3291,-3.44 z"
+         color="#000000"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         opacity="0.01"
+         solid-color="#000000"
+         stop-color="#000000"
+         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+         id="path42" />
+      <path
+         d="m 4.3587,0.79373 c -1.9668,0 -3.5639,1.6528 -3.5639,3.6876 v 8.4996 c 0,2.0348 1.5971,3.6876 3.5639,3.6876 h 8.2162 c 1.9668,0 3.5644,-1.6528 3.5644,-3.6876 v -8.4996 c 0,-2.0348 -1.5976,-3.6876 -3.5644,-3.6876 z m 0.27222,0.25631 h 7.6718 c 1.8422,0 3.3251,1.5342 3.3251,3.44 v 7.9368 c 0,1.9058 -1.483,3.44 -3.3251,3.44 h -7.6718 c -1.8422,0 -3.3251,-1.5342 -3.3251,-3.44 v -7.9368 c 0,-1.9058 1.483,-3.44 3.3251,-3.44 z"
+         color="#000000"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         opacity="0.01"
+         solid-color="#000000"
+         stop-color="#000000"
+         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+         id="path44" />
+      <g
+         id="g52">
+        <path
+           d="m 4.3097,1.0583 c -1.8657,0 -3.3751,1.5383 -3.3751,3.439 v 8.4675 c 0,1.9007 1.57,3.439 3.4357,3.439 h 8.1996 c 1.8657,0 3.4274,-1.5383 3.4274,-3.439 V 4.4973 c 0,-1.9007 -1.51,-3.439 -3.3756,-3.439 h -0.09688 c 1.794,0.086515 3.2138,1.5819 3.2138,3.4318 v 7.9368 c 0,1.9058 -1.5059,3.44 -3.3766,3.44 h -7.7905 c -1.8707,0 -3.3766,-1.5342 -3.3766,-3.44 V 4.4901 c 0,-1.8498 1.4199,-3.3451 3.2138,-3.4318 z"
+           color="#000000"
+           color-rendering="auto"
+           dominant-baseline="auto"
+           image-rendering="auto"
+           opacity="0.03"
+           solid-color="#000000"
+           stop-color="#000000"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+           id="path46" />
+        <path
+           transform="scale(0.26458)"
+           d="m 4,46.969 v 2.0312 c 0,6.6479 5.8957,12 12.544,12 h 30.961 c 6.6479,0 12.495,-5.3521 12.495,-12 V 47.008 C 59.97883,54.1929 54.19,59.971 47,59.971 H 17.002 C 9.7988,59.971 4,54.1723 4,46.969 Z"
+           color="#000000"
+           color-rendering="auto"
+           dominant-baseline="auto"
+           image-rendering="auto"
+           opacity="0.03"
+           solid-color="#000000"
+           stop-color="#000000"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+           id="path48" />
+        <path
+           d="m 1.0583,11.906 v 0.59234 c 0,1.9386 1.5729,3.4993 3.3318,3.4993 h 8.1603 c 1.7589,0 3.3243,-1.5608 3.3243,-3.4993 v -0.58095 c -0.0056,2.0952 -1.5372,3.7801 -3.4395,3.7801 H 4.4984 c -1.9058,0 -3.44,-1.691 -3.44,-3.7915 z"
+           color="#000000"
+           color-rendering="auto"
+           dominant-baseline="auto"
+           image-rendering="auto"
+           opacity="0.05"
+           solid-color="#000000"
+           stop-color="#000000"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+           id="path50" />
+      </g>
+    </g>
+    <rect
+       x="1.0580692"
+       y="1.0580692"
+       width="14.817195"
+       height="14.817195"
+       rx="3.4401124"
+       ry="3.4401124"
+       fill="url(#linearGradient862)"
+       stroke-width="1.00002"
+       id="rect887"
+       style="fill:url(#linearGradient862);image-rendering:optimizeSpeed" />
+    <text
+       x="3.717566"
+       y="12.699831"
+       fill="#ffffff"
+       font-family="'URW Bookman'"
+       font-size="12.4322px"
+       font-style="italic"
+       font-weight="300"
+       stroke-width="0.310816"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text32"><tspan
+         x="3.717566"
+         y="12.699831"
+         fill="#ffffff"
+         font-family="'URW Bookman'"
+         font-style="italic"
+         font-weight="300"
+         stroke-width="0.310816"
+         id="tspan30">F</tspan></text>
+  </g>
+</svg>
