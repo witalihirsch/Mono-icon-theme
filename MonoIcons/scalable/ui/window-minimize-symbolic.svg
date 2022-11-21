@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
-    <path d="m 4 10.007812 h 8 v 1.988282 h -8 z m 0 0" fill="#2e3436"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.5" y="9" width="2" height="9" rx="1" transform="rotate(-90 3.5 9)" fill="#2E3436"/>
 </svg>
