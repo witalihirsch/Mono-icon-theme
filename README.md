@@ -1,6 +1,9 @@
 # Mono Icons for Gnome
 This is a mix of Adwaita symbolic icons and new icons that we made together with my friend. Icons match and don't get out from the style of Adwaita icons.
 
+## Mono Project Preview
+[Mono Project Preview.](https://witalihirsch.github.io/mono.html) Work in progress.
+
 <p align="center"><b>Mono Icons</b></p>
 <p align="center">
   <img alt="apps" src="images/iconpack.png">
