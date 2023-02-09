@@ -4,19 +4,18 @@ This is a mix of Adwaita symbolic icons and new icons that we made together with
 ## Support
 <div>
     <a href="https://www.patreon.com/witalihirsch">
-        <img src="images/patreon.png" height="60px" >
+        <img src="images/patreon.png" width="250px" >
     </a>
 </div>
 
 ## Mono Project Preview
 <div>
     <a href="https://witalihirsch.github.io/mono.html">
-        <img src="images/monoproject.png" height="120px" >
+        <img src="images/monoproject.png" width="300px" >
     </a>
 </div> 
 
 ## Mono icons
-
 <p align="center">
     <img alt="apps" src="images/iconpack.png">
 </p>
