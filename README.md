@@ -10,12 +10,13 @@ This is a mix of Adwaita symbolic icons and new icons that we made together with
 
 ## Mono Project Preview
 <div>
-    <a href="https://www.patreon.com/witalihirsch">
+    <a href="https://witalihirsch.github.io/mono.html">
         <img src="images/monoproject.png" height="120px" >
     </a>
 </div> 
 
-<p align="center"><b>Mono Icons</b></p>
+## Mono icons
+
 <p align="center">
     <img alt="apps" src="images/iconpack.png">
 </p>
