@@ -10,7 +10,7 @@ This is a mix of Adwaita symbolic icons and new icons that we made together with
 
 ## Mono Project Preview
 <div>
-    <a href="https://witalihirsch.github.io/mono.html">
+    <a href="https://witalihirsch.github.io/websites/mono/">
         <img src="images/monoproject.png" width="300px" >
     </a>
 </div> 
